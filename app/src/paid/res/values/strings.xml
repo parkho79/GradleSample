@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PaidSample</string>
+
+    <string name="hello">Paid Hello World!!</string>
+</resources>
